@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tester
+title: Coding tutorials
 permalink: /tester/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+For information on python programming, please see the course materials from Justin Bois' [bootcamp](http://justinbois.github.io/bootcamp/2018/schedule.html).
